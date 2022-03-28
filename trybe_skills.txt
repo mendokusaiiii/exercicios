@@ -3,5 +3,11 @@ O que eu vou aprender na Trybe:
 - Unix
 - Bash
 - Git
+trybe-skills-updates
+Desenvolvimento Front-End
+Desenvolvimento Back-End
+Ciencia da computação
+=======
 HTML
 CSS
+master
